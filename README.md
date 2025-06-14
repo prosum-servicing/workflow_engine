@@ -22,7 +22,7 @@ This package can be installed by adding `workflow_engine` to your list of depend
 ```elixir
 def deps do
   [
-    {:workflow_engine, github: "box-id/workflow_engine", tag: "0.1.0"}
+    {:workflow_engine, github: "prosum-servicing/workflow_engine", tag: "1.1.1"}
   ]
 end
 ```
